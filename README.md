@@ -14,5 +14,4 @@ Python, FastAPI, AWS Cost Explorer, PostgreSQL, Docker
 ## Run with Docker
 docker-compose up --build
 
-API docs:
-http://localhost:8000/docs
+
